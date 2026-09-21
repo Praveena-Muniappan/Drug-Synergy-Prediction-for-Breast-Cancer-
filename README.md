@@ -1,4 +1,4 @@
-# Phase 2 — 3D-Aware Drug Synergy Prediction
+3D Aware Drug Synergy Prediction
 
 ## Overview
 
