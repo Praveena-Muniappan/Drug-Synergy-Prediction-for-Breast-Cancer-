@@ -67,3 +67,11 @@ python step5_dashboard.py
 - **Split A (Random):** 80/20 random holdout — baseline comparison
 - **Split B (Cold-start):** 20% of drug PAIRS held out entirely —
   validates generalisation to *novel, unseen* drug combinations
+#output results
+<img width="923" height="385" alt="WhatsApp Image 2026-10-10 at 21 40 30" src="https://github.com/user-attachments/assets/5e2873bf-a42e-4700-b79a-dc8dabca1060" />
+<img width="923" height="385" alt="2" src="https://github.com/user-attachments/assets/43871870-c293-40e8-a68a-5e385c851dc6" />
+<img width="923" height="385" alt="WhatsApp Image 2026-10-10 at 21 40 29" src="https://github.com/user-attachments/assets/6c6135b9-67f0-4961-a185-7c05b35e9c10" />
+<img width="923" height="385" alt="3" src="https://github.com/user-attachments/assets/b9a13345-9602-4984-a9fc-5d39eb36f5f6" />
+<img width="923" height="385" alt="4" src="https://github.com/user-attachments/assets/35473d4a-8774-4b04-8352-94b3ac169740" />
+<img width="1600" height="845" alt="5" src="https://github.com/user-attachments/assets/626d38ff-b892-4689-bb08-abf0574773aa" />
+<img width="1550" height="717" alt="image" src="https://github.com/user-attachments/assets/ca3b123b-42a8-4eec-ac5e-21c37f3cd6f2" />
